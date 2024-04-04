@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Actividad1</string>
+    <string name="actividad">Mi primera APP</string>
+    <string name="imagenes">Clica en la imagen para cambiar aleatoriamente</string>
 </resources>
